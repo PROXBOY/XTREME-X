@@ -1,5 +1,5 @@
-print("\n\n\n\n\nHello sir!!, I'm Here To Help u to Generate Telethon String Session")
-print("\n\nXtreme UserBot")
+print("\n\n\n\n\nHello sir/mam!!, I'm Here To Help u to Generate Telethon String Session")
+print("\n\nTSF UserBot")
 
 print("\n\nProperly Fill APP_ID ,HASH and Number.\n")
 
